@@ -1,0 +1,11 @@
+Interviewer: Can you walk me through how you currently manage your energy usage at home?
+
+User: Honestly it's frustrating. I never know what's consuming the most power. I just get a bill at the end of the month and it's always a surprise.
+
+Interviewer: What would make that experience better for you?
+
+User: I wish I could see real time data. Like which appliance is using what. My neighbor has some smart home thing but it looked really complicated to set up.
+
+Interviewer: Have you tried any apps or tools to track this?
+
+User: I downloaded one once but it required too many manual inputs. I gave up after a week. I just want something that works automatically without me having to think about it.
