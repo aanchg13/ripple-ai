@@ -1,0 +1,15 @@
+Interviewer: Walk me through how you use your banking app day to day.
+
+User: Honestly I dread opening it. The interface is so cluttered. There are features I've never used taking up half the screen and the things I actually need like payroll transfers are buried somewhere in a sub menu.
+
+Interviewer: How do you handle payments and transfers for your business?
+
+User: Very carefully because the app has actually double charged me twice. Once for a supplier payment. I didn't catch it for two weeks because the transaction history is so hard to read. Cost me a lot of stress.
+
+Interviewer: How do you feel about the security features?
+
+User: The two factor authentication logs me out every single time I switch apps. I'm a busy person. I check my phone constantly. Being logged out 10 times a day and having to re-authenticate is exhausting.
+
+Interviewer: What would make you stay loyal to this bank?
+
+User: Fix the transfers so I get an instant confirmation. Clean up the home screen. And for the love of everything please remember that I'm logged in for more than 30 seconds.

@@ -1,0 +1,15 @@
+Interviewer: How do you currently manage your banking on your phone?
+
+User: I use the app but honestly it stresses me out. I can never find my transaction history easily. I have to click through like four screens just to see what I spent last week.
+
+Interviewer: What do you do when you need to transfer money?
+
+User: That's the worst part. It times out constantly. Last week I tried to pay my friend back and it just froze. I didn't know if the transfer went through or not so I ended up paying twice.
+
+Interviewer: What would make the app better for you?
+
+User: Just make it simpler. I don't need a million features. I want to open the app and immediately see my balance and recent transactions. Also some kind of confirmation when I send money would save me so much anxiety.
+
+Interviewer: Do you use any other financial tools alongside the app?
+
+User: I keep a spreadsheet because I don't trust the app to categorize my spending correctly. It once labeled my grocery run as entertainment. I shouldn't have to double check everything manually.

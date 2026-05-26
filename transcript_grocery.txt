@@ -1,0 +1,19 @@
+Interviewer: Tell me about your experience with grocery delivery apps.
+
+User: I use them a lot since I work from home. But substitutions drive me absolutely crazy. I order specific things and they just swap them without asking. Last time I ordered almond milk and got oat milk. I'm allergic to oats.
+
+Interviewer: How do you handle that when it happens?
+
+User: I have to contact support which takes forever. They're usually pretty good about refunds but that's not the point. I ordered something I needed and now I have to go to the store anyway which defeats the whole purpose.
+
+Interviewer: What about the delivery experience itself?
+
+User: The time windows are too vague. Somewhere between 9am and 1pm is not helpful when I have meetings. I need to be at my desk. I've missed deliveries because I couldn't hover by the door for four hours.
+
+Interviewer: Do you have a preferred app you use?
+
+User: I switch between two of them depending on who has better prices that week. Neither of them is good enough to be loyal to. If one of them just fixed the substitution problem and gave me a real delivery time I'd never leave.
+
+Interviewer: What features do you wish existed?
+
+User: Real time tracking like Uber has. And the ability to pre-approve substitutions or just say no substitutions at all. Also a way to flag allergies so they never substitute with something dangerous. That seems like a basic safety thing honestly.

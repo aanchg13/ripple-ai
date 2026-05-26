@@ -1,0 +1,15 @@
+Interviewer: Tell me about your experience using your banking app.
+
+User: It works I guess but it feels like it was designed for someone else. I mostly use it to check my balance and pay bills but both of those things feel harder than they should be.
+
+Interviewer: Can you tell me more about paying bills through the app?
+
+User: The payee list is not organized at all. I have like 15 payees and they're in random order. Every month I'm scrolling forever looking for the right one. I've accidentally paid the wrong account twice because things look so similar.
+
+Interviewer: How do you feel when something goes wrong in the app?
+
+User: Completely stranded. The help section is useless. It's just a FAQ with answers that don't match my actual problem. I once spent an hour trying to figure out why a payment failed and never got an answer.
+
+Interviewer: What do you wish the app did better?
+
+User: Organized payee list, better error messages that actually tell you what went wrong, and some kind of spending summary on the home screen. I want to open the app and immediately understand my financial situation not go on a treasure hunt.

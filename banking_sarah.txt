@@ -1,0 +1,15 @@
+Interviewer: How do you currently manage your banking on your phone?
+
+User: I use the app daily but it's really frustrating. Finding my transaction history takes forever. I have to click through so many screens just to see what I spent last week. As a freelancer I need to track my spending constantly.
+
+Interviewer: What do you do when you need to transfer money?
+
+User: It times out all the time. Last week I tried to pay a client invoice and it just froze. I had no idea if the transfer went through. I ended up calling the bank which took 40 minutes.
+
+Interviewer: What would make the app better for you?
+
+User: A clear confirmation when money is sent. And please just put my balance and recent transactions on the home screen. I should not have to dig for basic information.
+
+Interviewer: Do you use anything else alongside the app?
+
+User: I keep a separate spreadsheet because the app miscategorizes everything. It labeled a software subscription as dining once. I can't trust it for my tax records.

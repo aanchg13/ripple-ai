@@ -1,0 +1,19 @@
+Interviewer: Can you walk me through how you book a doctor's appointment?
+
+User: It's a nightmare honestly. I usually have to call because the online system never works properly on my phone. I've tried three times and it always crashes before I can confirm.
+
+Interviewer: What happens when you call instead?
+
+User: I'm on hold for like 20 minutes minimum. And then half the time they tell me the doctor I want isn't available for six weeks. Nobody tells you that online. You find out after waiting forever.
+
+Interviewer: How do you keep track of your appointments once booked?
+
+User: They send a letter. An actual paper letter. In 2024. By the time it arrives I've already forgotten what time it was. I write it on a sticky note on my fridge which is not ideal.
+
+Interviewer: What would your ideal booking experience look like?
+
+User: Just let me see real availability online, book in two clicks, and send me a text reminder the day before. That's it. Nothing fancy. I just want to feel like my time is respected.
+
+Interviewer: Have you ever missed an appointment because of these issues?
+
+User: Twice. And they charged me a cancellation fee both times even though I never got a proper reminder. That really put me off the whole system.
