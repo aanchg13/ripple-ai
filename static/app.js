@@ -84,6 +84,8 @@ function renderResults(data) {
         </div>
     `).join('');
 
+    renderCharts(data);
+
     document.getElementById('results-section').scrollIntoView({ behavior: 'smooth' });
 }
 
@@ -94,4 +96,64 @@ function toggleTheme(i) {
 
 function showLoading(show) {
     document.getElementById('loading-overlay').style.display = show ? 'flex' : 'none';
+}
+
+function renderCharts(data) {
+    console.log('renderCharts called', data.themes.length, 'themes');
+    const severityCounts = { HIGH: 0, MEDIUM: 0, LOW: 0 };
+    data.themes.forEach(t => {
+        const s = t.severity.toUpperCase();
+        if (severityCounts[s] !== undefined) severityCounts[s]++;
+    });
+
+    const themeNames = data.themes.map(t => t.name);
+    const quoteCounts = data.themes.map(t => t.quotes.length);
+
+    document.getElementById('charts-section').innerHTML = `
+        <div class="two-col">
+            <div class="card">
+                <h3 class="card-title">Themes by severity</h3>
+                <canvas id="severity-chart"></canvas>
+            </div>
+            <div class="card">
+                <h3 class="card-title">Theme strength by supporting quotes</h3>
+                <canvas id="quotes-chart"></canvas>
+            </div>
+        </div>
+    `;
+
+    new Chart(document.getElementById('severity-chart'), {
+        type: 'bar',
+        data: {
+            labels: ['HIGH', 'MEDIUM', 'LOW'],
+            datasets: [{
+                data: [severityCounts.HIGH, severityCounts.MEDIUM, severityCounts.LOW],
+                backgroundColor: ['#ef4444', '#f97316', '#22c55e'],
+                borderRadius: 6,
+                borderSkipped: false
+            }]
+        },
+        options: {
+            plugins: { legend: { display: false } },
+            scales: { y: { beginAtZero: true, ticks: { stepSize: 1 } } }
+        }
+    });
+
+    new Chart(document.getElementById('quotes-chart'), {
+        type: 'bar',
+        data: {
+            labels: themeNames,
+            datasets: [{
+                data: quoteCounts,
+                backgroundColor: quoteCounts.map(q => q >= 3 ? '#ef4444' : q === 2 ? '#f97316' : '#22c55e'),
+                borderRadius: 6,
+                borderSkipped: false
+            }]
+        },
+        options: {
+            indexAxis: 'y',
+            plugins: { legend: { display: false } },
+            scales: { x: { beginAtZero: true, ticks: { stepSize: 1 } } }
+        }
+    });
 }
