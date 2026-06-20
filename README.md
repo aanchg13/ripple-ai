@@ -55,7 +55,7 @@ source .venv/bin/activate   # On Windows: .venv\Scripts\activate
 ### 3. Install Dependencies
 
 ```bash
-pip install fastapi uvicorn anthropic python-dotenv jinja2 python-multipart PyPDF2 pandas
+pip install -r requirements.txt
 ```
 
 ### 4. Set Up Your API Key
@@ -86,4 +86,3 @@ The app will be available at `http://127.0.0.1:8000`.
 - [ ] **Multi-file batch processing:** Allow users to upload 10+ transcripts at once to extract macro-trends across an entire research study.
 - [ ] **Action-Item Generation:** Automatically generate product feature tickets or operational tasks directly from user pain points.
 - [ ] **Sentiment Trend Dashboard:** Integrate visual charts showing the emotional trajectory of an interview over time.
-- [ ] **requirements.txt:** Add a proper dependency lockfile for easier setup.
